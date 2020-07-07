@@ -1,0 +1,7 @@
+编号	年龄	性别	年级
+A1	12	男	大二
+A2	13	男	大四
+A3	12	女	大三
+A4	15	女	大二
+A5	14	男	大一
+graphviz in d:\cuiquan\anaconda\lib\site-packages (0.14)
